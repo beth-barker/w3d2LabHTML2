@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    padding: 50px;
+}
+
+header {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+#square {
+    width: 75px;
+    height: 75px;
+    background-color: #4A90E2;
+}
+
+
+
+#box1 {
+    background-color: #4A90E2;
+    height: 25vh;      
+}
+
+#box2 {
+    background-color: #50E3C2;
+    height: 25vh;      
+}
+
+#box3 {
+    background-color: #B8E986;
+    height: 25vh;      
+}
+
+#box4 {
+    background-color: #F8E71C;
+    height: 25vh;      
+}
+
+#box5 {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+#box5 button {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 30px;
+}
+
+
+
+
